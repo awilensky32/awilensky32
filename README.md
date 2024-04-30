@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adam Wilensky
+- 👋 Hi, I’m Adam 
 
-   I am a senior at UT Austin, studying stats and finance 
+   I am  no longer a senior at UT Austin, studying stats and finance. I graduated and now screenshot and color for a living
 
 <!---
 awilensky32/awilensky32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
